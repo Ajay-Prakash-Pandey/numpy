@@ -1,5 +1,5 @@
 <!-- here i am learning numpy  -->
-i acn learn some topics in numpy such are
+this repo covered these topics
 1->introduction to numpy
 2->creating array 
 3->indixing in numpy 
@@ -9,3 +9,4 @@ i acn learn some topics in numpy such are
 7->Array shape in numpy
 8->Reshaping in Array
 9->iteration in numpy array
+10-> joining or concatination in numpy
