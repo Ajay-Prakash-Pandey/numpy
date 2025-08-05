@@ -10,9 +10,9 @@ import numpy as np
 
 y=np.array([[[1,2,3,4,5],[1,2,3,4,5]],[[1,2,3,4,5],[1,2,3,4,5]]])
 print(y)
-print(y.ndim)
+print(y.ndim) # this(ndim) function tells dimenson of array 
 
-_5dconver=np.array([1,2,3,4,5],ndmin=5)
+_5dconver=np.array([1,2,3,4,5],ndmin=5) # ndim=5 means to set dimension 5 
 print(f"no of dimension in {_5dconver} is: ",_5dconver.ndim)
 __5d=np.array([[[1,2,3,4,5],[1,2,3,4,5]],[[1,2,3,4,5],[1,2,3,4,5]]],ndmin=5)
 
