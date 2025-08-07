@@ -12,3 +12,10 @@ this repo covered these topics
 10-> joining or concatination in numpy
 11->Spliting array in numpy
 12->searching array in numpy
+
+all files moves to concept to seprate from random concept 
+
+Starting random in Numpy
+
+1->introduction Random
+2->Data Distribution
