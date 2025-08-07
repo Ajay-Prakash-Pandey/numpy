@@ -14,3 +14,5 @@ this repo covered these topics
 12->searching array in numpy
 13->sorting array in numpy
 14->filter in numpy
+
+all files moves to concept to seprate from random concept 
