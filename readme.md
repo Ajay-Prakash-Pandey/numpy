@@ -10,4 +10,3 @@ this repo covered these topics
 8->Reshaping in Array
 9->iteration in numpy array
 10-> joining or concatination in numpy
-11->Spliting array in numpy
