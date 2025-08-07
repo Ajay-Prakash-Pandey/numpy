@@ -19,3 +19,5 @@ Starting random in Numpy
 
 1->introduction Random
 2->Data Distribution
+3->Permutation and shuffling
+4->
