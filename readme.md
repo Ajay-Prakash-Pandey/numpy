@@ -16,3 +16,7 @@ this repo covered these topics
 14->filter in numpy
 
 all files moves to concept to seprate from random concept 
+
+Starting random in Numpy
+
+1->
