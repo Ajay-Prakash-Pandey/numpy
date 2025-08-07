@@ -13,3 +13,4 @@ this repo covered these topics
 11->Spliting array in numpy
 12->searching array in numpy
 13->sorting array in numpy
+14->filter in numpy
