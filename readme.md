@@ -17,9 +17,9 @@ all files moves to concept to seprate from random concept
 
 Starting random in Numpy
 
-now we small learn aboyt seaborm and its done
+now we small learn about seaborm and its done
 
 1->introduction Random
 2->Data Distribution
 3->Permutation and shuffling
-4->
+4->Numpy Normal(gaussian) distribution
