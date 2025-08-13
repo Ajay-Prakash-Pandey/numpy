@@ -24,3 +24,4 @@ now we small learn about seaborm and its done
 3->Permutation and shuffling
 4->Numpy Normal(gaussian) distribution
 5->binomal Distribution
+6->Poisson Distribution
